@@ -1,0 +1,10 @@
+BOULEVARD GARDENS IN THE WOLSELEY NEIGHBOURHOOD,,By: Julia-Simone Rutgers
+This spreadsheet includes all datasets used to finalize visualisations for the neighbourhood boulevard gardens story,,
+SHEET,DATA,NOTES
+01_wolseley_gardens_all,"All buildings in the Wolseley neighbourhood with geographic information, geometry, assessed property value and a boolean column to indicate whether there is a boulevard garden",
+02_wolseley_gardens_residential,"Filter of sheet 01, showing only residential properties",See boulevard garden analysis notebook for methodology 
+03_wolseley_gardens_true,"Filter of sheet 01, showing only properties with boulevard gardens",
+04_by_street_figures,"Number of properties, number of properties with boulevard gardens, percent of properties with gardens and average residential property values aggregated by street",See boulevard garden analysis for methodology. Portage Ave was deleted in the final version as it has no residential properties.
+05_mean_prop_val_regions,Average property values for residential homes in eight regions of the neighbourhood ,"This data was collected using a pivot table with longitudinal regions as the rows, latitudinal regions as columns and mean property value as values. It was reformatted to work cleanly with Datawrapper."
+06_percent_gardens_by_region,Percentage of properties in each of the eight regions that have a boulevard garden,
+07_histograms,Distribution of property values for all residential properties and residential properties with boulevard gardens,Manual histogram creation. Used 45 bins. Followed some steps I found on the internet
