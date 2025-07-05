@@ -236,6 +236,6 @@ pyrightconfig.json
 
 # Additional files
 
-/extras_old_analysis
-/boulevard-photos
+extras_old_analysis/
+boulevard-photos/
 
