@@ -17,24 +17,24 @@ In the end, it turns out Woleseley's gardens are well-distributed across the nei
 
 ## Contents:
 
-> notebooks: 
+notebooks: 
 
-    `01_boulevard_gardens_cleaning` - cleaning assessment parcel data and merging with garden data
+01_boulevard_gardens_cleaning - cleaning assessment parcel data and merging with garden data
 
 
-    `02_boulevard_gardens_analysis` - property value/garden density analysis
+02_boulevard_gardens_analysis - property value/garden density analysis
 
-    (this folder also includes input datasets)
+(this folder also includes input datasets)
 
-> output_data:
+output_data:
 
-   `00_boulevard_gardens_data` - all datasets created through the analysis, as well as all datasets used for visualization
+00_boulevard_gardens_data - all datasets created through the analysis, as well as all datasets used for visualization
 
-> extras - map:
-     geojson files used to map the neighbourhood gardens
+extras - map:
+geojson files used to map the neighbourhood gardens
 
-> graphics: 
-    png copies of datawrapper graphics.
+graphics: 
+png copies of datawrapper graphics.
 
 
 
