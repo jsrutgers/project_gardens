@@ -13,7 +13,7 @@ The garden locations were analysed against average property assessment values in
 This was an effort to strengthen my data-cleaning skills and my ability to wrangle and ask questions of relatively large datasets.
 
 In the end, it turns out Woleseley's gardens are well-distributed across the neighbourhood, and are the least densely clustered in the most expensive parts of the community.
----
+
 
 ## Contents:
 
@@ -30,10 +30,10 @@ In the end, it turns out Woleseley's gardens are well-distributed across the nei
 
 `00_boulevard_gardens_data` - all datasets created through the analysis, as well as all datasets used for visualization
 
-**extras - map:**
+**/extras - map:**
 geojson files used to map the neighbourhood gardens
 
-**graphics:**
+**/graphics:**
 png copies of datawrapper graphics.
 
 
@@ -44,8 +44,8 @@ Over the course of three days, I walked or cycled the length of every street in 
 
 The definition of a boulevard garden for the purpose of the project was limited to deliberately planted gardens on city-owned property with more than one variety of plant. 
 
-More detailed explanations, as well as steps to  can be found in the data cleaning notebook or on the website.
----
+**More detailed explanations, as well as steps to  can be found in the data cleaning notebook or on the website.**
+
 
 # Cleaning and Analysis:
 
